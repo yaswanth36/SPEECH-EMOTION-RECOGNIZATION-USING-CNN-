@@ -1,6 +1,8 @@
 # SPEECH-EMOTION-RECOGNIZATION-USING-CNN
 "Incorporating emotions into computer programs is crucial for creating human-like behaviors and appearances. Speech Emotion Recognition (SER) plays a vital role in identifying emotions in human voices. This research compares five different SER models for automated emotion recognition in natural spoken communication."
+
 DATASET
+
 The Ryersоn Аudiо-Visuаl Dаtаbаse оf Emоtiоnаl Sрeeсh аnd Sоng (RАVDESS)  we have used RAVDESS dataset.​
 
 It contains1440 files: 60 trials/actor multiplied with 24 actors = 1440 trials. The RAVDESS consists of 24 professional voices (12 feminine, 12 masculine). ​
